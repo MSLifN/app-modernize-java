@@ -95,8 +95,8 @@ If dependencies change in the generated code then the `pom.xml` will need regene
 
 If you haven't released before, please see the [release setup guide](RELEASE_SETUP.md). 
 
-1. Pull latest master
-2. Merge feature branch(es) into master
+1. Pull latest main
+2. Merge feature branch(es) into main
 3. `script/test`
 4. Increment version:
   - `generator-config.json`

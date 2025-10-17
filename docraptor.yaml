@@ -1,6 +1,6 @@
 swagger: '2.0'
 
-info: # https://github.com/OAI/OpenAPI-Specification/blob/master/versions/2.0.md#info-object
+info: # https://github.com/OAI/OpenAPI-Specification/blob/main/versions/2.0.md#info-object
   version: "2.0.0"
   title: DocRaptor
   description: "A native client library for the DocRaptor HTML to PDF/XLS service."
