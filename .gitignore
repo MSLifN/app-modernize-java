@@ -19,3 +19,21 @@ hs_err_pid*
 target
 .gradle
 build
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Test and Coverage reports
+*.log
+dependency-check-report.html
+jacoco.exec
+*.exec
+
+# OS files
+.DS_Store
+Thumbs.db

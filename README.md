@@ -1,5 +1,9 @@
 # DocRaptor Java Native Client Library
 
+[![Java CI with Maven](https://github.com/MSLifN/app-modernize-java/actions/workflows/maven.yml/badge.svg)](https://github.com/MSLifN/app-modernize-java/actions/workflows/maven.yml)
+[![CodeQL](https://github.com/MSLifN/app-modernize-java/actions/workflows/codeql.yml/badge.svg)](https://github.com/MSLifN/app-modernize-java/actions/workflows/codeql.yml)
+[![codecov](https://codecov.io/gh/MSLifN/app-modernize-java/branch/main/graph/badge.svg)](https://codecov.io/gh/MSLifN/app-modernize-java)
+
 This is a maven package for using [DocRaptor API](https://docraptor.com/documentation) to convert [HTML to PDF and XLSX](https://docraptor.com).
 
 
